@@ -2,8 +2,6 @@
 
 A simple Streamlit web app that predicts maternal health risk levels (Low, Mid, High) using machine learning models. It also provides AI-powered analysis and answers to maternal health questions using Gemini API (Google)
 
----
-
 ## Features
 
 - Multi-Model Risk Prediction - Uses Random Forest, SVM, and LightGBM models to predict maternal health risk.
@@ -15,8 +13,6 @@ A simple Streamlit web app that predicts maternal health risk levels (Low, Mid, 
 - Chat Assistant Sidebar - Ask maternal health questions and get AI-generated answers directly from the sidebar.
 
 - Input Validation - Built-in checks for common data entry issues to avoid inaccurate predictions.
-
----
 
 ## Implementation Screenshots
 
